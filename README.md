@@ -1,2 +1,2 @@
-# OmniLens2
-Official implementation of OmniLens++ framework.
+# FoundCAC
+Official implementation of FoundCAC (OmniLens++) framework.
